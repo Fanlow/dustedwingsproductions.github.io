@@ -31,6 +31,8 @@
         "#8514cc"
       ]
     },
+    "favicon": "@PROJECT_PATH@/assets/images/456865-424538affdcb4ce1a2345a7c09107863-128x66.png",
+    "noImageResize": "",
     "versionFirst": "4.6.5",
     "uniqCompNum": 6,
     "versionPublish": "4.6.5"
